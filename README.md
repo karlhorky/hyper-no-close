@@ -1,5 +1,5 @@
 # hyper-no-close
-Remove close buttons on tabs in Hyper.app
+Remove close buttons on tabs in [Hyper.app](https://hyper.is/)
 
 ## How to use
 
