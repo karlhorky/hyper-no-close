@@ -1,0 +1,30 @@
+{
+  "name": "hyper-no-close",
+  "version": "1.0.0",
+  "description": "Remove close buttons on tabs in Hyper.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlhorky/hyper-no-close.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper.app",
+    "closebuttons",
+    "tabs"
+  ],
+  "author": {
+    "name": "Karl Horky",
+    "email": "karl.horky@gmail.com",
+    "url": "https://work.karlhorky.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlhorky/hyper-no-close/issues"
+  },
+  "homepage": "https://github.com/karlhorky/hyper-no-close#readme"
+}
